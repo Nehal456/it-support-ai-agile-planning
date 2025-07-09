@@ -6,7 +6,7 @@
 Agile planning and Kanban workflow for the "IT Support AI" system that manages support tickets via chatbot, dashboard, and notification system.
 
 ## 🔗 Kanban Board Link
-👉 [View the Trello Board](https://trello.com/your-board-link)
+👉 [View the Trello Board](https://trello.com/b/GizGjBEI/it-support-ai-agile-sprint-board)
 
 ## 🗂️ Sprint 1 Backlog
 - US1: Submit a support ticket
